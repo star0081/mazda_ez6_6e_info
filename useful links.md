@@ -6,5 +6,5 @@
 
 Как получить виртуальный Китайский номер:
 
-- 1. Регистрируемся в WeChat https://dzen.ru/a/ZdWz085NKkyf6b85
-- 2. Заводим номер в eSender https://dzen.ru/a/ZfqZllVf0Efa3zAF
+- Регистрируемся в WeChat https://dzen.ru/a/ZdWz085NKkyf6b85
+- Заводим номер в eSender https://dzen.ru/a/ZfqZllVf0Efa3zAF
