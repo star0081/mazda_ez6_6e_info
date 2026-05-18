@@ -76,7 +76,7 @@
 
 - **Приложения (Android)**  
   Установка и работа:  
-  - Разблокировка установки приложений с помощью ПК (см. инструкции).  
+  - Разблокировка установки приложений с помощью ПК (см. инструкции https://github.com/star0081/mazda_ez6_6e_info/blob/main/instructions.md).  
   - Разблокировка без ПК (для первоначальной настройки ПК всё равно понадобится).  
   - Для работы нужно раздать права через adb:  
     `adb shell pm grant com.autoext.ez6unlocker android.permission.WRITE_SECURE_SETTINGS`  
