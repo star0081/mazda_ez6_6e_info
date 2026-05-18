@@ -64,15 +64,15 @@
 
 - **Язык и регион**  
   Автомобиль и приложения завязаны на китайский рынок. Для навигации и онлайн-сервисов приходится:  
-  - сбрасывать настройки до заводских,  
-  - устанавливать китайскую SIM-карту,  
-  - заниматься «русификацией».
+  - устанавливать SIM-карту или раздать интернет по WI-FI
+  - установить сторонии приложения для RU региона
 
-- **Приложения (iOS/Android)**  
+- **Приложения (Android)**  
   Установка и работа :
-  - см. инструкции
-  - Разблокировка установки приложений (для работы нужно раздать права через adb shell pm grant com.autoext.ez6unlocker android.permission.WRITE_SECURE_SETTINGS)
-https://github.com/Afflya/mazda-ez-unlock/releases/download/1.0.0/ez6unlocker__release__1.0.0.apk
+  - Разблокировка установки приложений с помощю ПК см.инструкции
+  - Разблокировка установки приложений без подключения ПК (для первоначальной настройки ПК всеравно понадобиться)
+  - для работы нужно раздать права через adb shell pm grant com.autoext.ez6unlocker android.permission.WRITE_SECURE_SETTINGS
+  - https://github.com/Afflya/mazda-ez-unlock/releases/download/1.0.0/ez6unlocker__release__1.0.0.apk
 
 - **Apple CarPlay и Android Auto**  
   - Отсутствуют. Ожидания связаны с европейской версией Mazda 6e, но точной информации нет.
